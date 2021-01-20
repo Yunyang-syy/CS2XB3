@@ -3,3 +3,4 @@ new second
 third
 
 reset:first commit
+reset:second commit
