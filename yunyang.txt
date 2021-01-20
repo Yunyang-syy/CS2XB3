@@ -2,4 +2,4 @@ Hi this is Yunyang Sun
 new second
 third
 
-reset:first
+reset:first commit
