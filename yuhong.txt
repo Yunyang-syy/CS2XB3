@@ -1,12 +1,3 @@
 my name is Yuhong Nie
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 my studentID is 4002324u5893
 my email is niey12@mcmaster.ca
-=======
->>>>>>> parent of a71be90... more info
-=======
->>>>>>> parent of a71be90... more info
-=======
->>>>>>> parent of a71be90... more info
