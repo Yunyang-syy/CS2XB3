@@ -4,3 +4,5 @@ third
 
 reset:first commit
 reset:second commit
+
+test message
