@@ -8,5 +8,6 @@ reset:second commit
 test message
 
 1
-2
+
 3
+
