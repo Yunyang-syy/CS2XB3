@@ -6,3 +6,6 @@ reset:first commit
 reset:second commit
 
 test message
+
+1
+
